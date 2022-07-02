@@ -1,0 +1,17 @@
+org\example\StepDefinitions\D05_SwitchCurrencyStepDef.class
+org\example\StepDefinitions\D02_Login.class
+org\example\Pages\P10_WishPage.class
+org\example\Pages\P05_SwitchCurrency.class
+org\example\Runner\testRunner.class
+org\example\StepDefinitions\D04_SearchStepDef.class
+org\example\StepDefinitions\D07_FollowUs.class
+org\example\StepDefinitions\D08_Wishlist.class
+org\example\StepDefinitions\Hooks.class
+org\example\StepDefinitions\D03_ForgotPassDef.class
+org\example\StepDefinitions\D01_Register.class
+org\example\Pages\P04_Search.class
+org\example\StepDefinitions\D06_HomeSliders.class
+org\example\Pages\P03_ForgotPassPage.class
+org\example\Pages\P01_Register.class
+org\example\Pages\P02_Login.class
+org\example\StepDefinitions\D05_HoverCategories.class
